@@ -236,6 +236,10 @@ Epoch 100/100
 ![](https://github.com/ak224001/Traffic-Signs-Recognition-deep-learning/blob/Img/trafficModelAccuracy.png?raw=true)
 ## Model loss
 ![](https://github.com/ak224001/Traffic-Signs-Recognition-deep-learning/blob/Img/trafficModelLoss.png?raw=true)
-
+## Test Accuracy
+```python
+accuracy_score(test_labels,predict)
+```
+0.9670625494853523
 
 ## Thank you
